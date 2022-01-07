@@ -14,5 +14,6 @@ module.exports = {
 		"https://polar-hardboiled.gitlab.io/mamtitoo/",
 		"https://polar-hardboiled.info/",
 		"https://rockradio.netlify.app/",
+		"https://www.preciousradio.com/",
 	]
 };
