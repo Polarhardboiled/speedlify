@@ -9,6 +9,7 @@ module.exports = {
 		"https://11starter.netlify.app/",
 		"https://zylla11.netlify.app/",
 		"https://oldstyle.netlify.app/",
+		"https://zero11.netlify.app/",
 		"https://titoo.netlify.app/",
 		"https://zyllaonze.netlify.app/",
 		"https://polar-hardboiled.gitlab.io/mamtitoo/",
