@@ -6,6 +6,7 @@ module.exports = {
 	},
 	urls: [
 		"https://theminimum.netlify.app/",
+		"https://11speedy.netlify.app/",
 		"https://11starter.netlify.app/",
 		"https://zylla11.netlify.app/",
 		"https://oldstyle.netlify.app/",
