@@ -6,6 +6,7 @@ module.exports = {
 	},
 	urls: [
 		"https://theminimum.netlify.app/",
+		"https://theminimum.vercel.app/
 		"https://11skeleton.vercel.app/",
 		"https://11boiler.netlify.app/",
 		"https://11tybase.netlify.app/",
