@@ -11,18 +11,13 @@ module.exports = {
 		"https://11boiler.netlify.app/",
 		"https://11tybase.netlify.app/",
 		"https://11radio.netlify.app/",
-		"https://11speedy.netlify.app/",
 		"https://11starter.netlify.app/",
 		"https://zylla11.netlify.app/",
 		"https://oldstyle.netlify.app/",
-		"https://zero11.netlify.app/",
 		"https://titoo.netlify.app/",
-		"https://zyllaonze.netlify.app/",
 		"https://polar-hardboiled.gitlab.io/mamtitoo/",
 		"https://polar-hardboiled.info/",
 		"https://rockradio.netlify.app/",
 		"https://www.preciousradio.com/",
-		"https://radiorockline.netlify.app",
-		"https://magicsoul.netlify.app",
 	]
 };
