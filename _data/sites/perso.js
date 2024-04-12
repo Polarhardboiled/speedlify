@@ -9,7 +9,7 @@ module.exports = {
 		"https://theminimum.vercel.app/",
 		"https://11skeleton.vercel.app/",
 		"https://11boiler.netlify.app/",
-		"https://11tybase.netlify.app/",
+		"https://12radio.vercel.app/",
 		"https://11radio.vercel.app/",
 		"https://oldstyle.vercel.app/",
 		"https://11starter.netlify.app/",
