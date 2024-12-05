@@ -5,6 +5,7 @@ module.exports = {
 		frequency: 60 * 23, // (in minutes), 23 hours
 	},
 	urls: [
+		"https://zyllastart.vercel.app/",
 		"https://theminimum.netlify.app/",
 		"https://theminimum.vercel.app/",
 		"https://11skeleton.vercel.app/",
