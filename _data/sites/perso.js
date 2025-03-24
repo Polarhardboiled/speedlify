@@ -21,5 +21,6 @@ module.exports = {
 		"https://polar-hardboiled.info/",
 		"https://rockradio.netlify.app/",
 		"https://www.preciousradio.com/",
+		"https://radionew.vercel.app/",
 	]
 };
